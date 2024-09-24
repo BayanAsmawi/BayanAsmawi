@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @BayanAsmawi
-- 👀 I’m interested in front end development
-- 🌱 I’m currently studying Bsc Software Engineering
-- 😄 Pronouns: she/her
+
